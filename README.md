@@ -76,16 +76,39 @@ class KimHour extends FullstackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="Hour's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" height="170"/>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=default&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical" alt="Hour's GitHub Stats" height="170"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=default&hide_border=true&title_color=8b5cf6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LK-Hour&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LK-Hour&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LK-Hour&theme=default&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LK-Hour&theme=radical" alt="GitHub Streak" />
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=github-light&hide_border=true&area=true&color=8b5cf6&line=8b5cf6&point=8b5cf6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark" alt="Contribution Graph" />
+</picture>
+
 </div>
 
 ---
