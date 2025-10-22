@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Kim Hour!** 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Fullstack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Flutter+%26+Next.js+Enthusiast+%F0%9F%94%A5;Always+Learning+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Fullstack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Software+Engineer+%26+AI+Enthusiast+%F0%9F%94%A5;Always+Learning+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
