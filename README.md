@@ -134,7 +134,7 @@ class KimHour {
 
 <br/>
 
-### 🐍 Snake eating my contributions
+### 🐍 Little Snackie
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LK-Hour/LK-Hour/output/github-contribution-grid-snake-dark.svg">
@@ -205,37 +205,85 @@ class KimHour {
 
 <div align="center">
 
-```mermaid
-pie title My Tech Stack Distribution
-    "Flutter / Dart" : 40
-    "Next.js / TypeScript" : 30
-    "Python" : 15
-    "C# / Unity" : 10
-    "Other" : 5
-```
+### ◈ Tech Distribution
+
+<br/>
+
+<table>
+<tr>
+  <td align="right" width="200"><b>📱 Flutter &amp; Dart</b></td>
+  <td><code>████████████████████</code></td>
+  <td align="center" width="45"><b>40%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🌐 Next.js &amp; TypeScript</b></td>
+  <td><code>███████████████░░░░░</code></td>
+  <td align="center"><b>30%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🤖 Python</b></td>
+  <td><code>████████░░░░░░░░░░░░</code></td>
+  <td align="center"><b>15%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🎮 C# &amp; Unity</b></td>
+  <td><code>█████░░░░░░░░░░░░░░░</code></td>
+  <td align="center"><b>10%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🔧 Other</b></td>
+  <td><code>███░░░░░░░░░░░░░░░░░</code></td>
+  <td align="center"><b>5%</b></td>
+</tr>
+</table>
+
+<br/><br/>
+
+<table>
+<tr>
+<td valign="top" align="center" width="33%">
+
+### 🎓 Learning
+
+<hr/>
+
+`Flutter Advanced Patterns`<br/><br/>
+`Next.js App Router`<br/><br/>
+`TypeScript Deep Dive`<br/><br/>
+`State Management · MVVM`<br/><br/>
+`Firebase & Supabase`
+
+</td>
+<td valign="top" align="center" width="33%">
+
+### 🔨 Building
+
+<hr/>
+
+`Mobile Applications`<br/><br/>
+`Web Applications`<br/><br/>
+`Fullstack Projects`<br/><br/>
+`Games with Unity`<br/><br/>
+`Open Source Projects`
+
+</td>
+<td valign="top" align="center" width="33%">
+
+### 🎯 Goals · 2026
+
+<hr/>
+
+`Master Fullstack Dev`<br/><br/>
+`Ship Production Apps`<br/><br/>
+`Open Source Contributions`<br/><br/>
+`Build Strong Portfolio`<br/><br/>
+`Internship / Work Ready`
+
+</td>
+</tr>
+</table>
 
 </div>
-
-```mermaid
-mindmap
-  root((Kim Hour))
-    🎓 Learning
-      Flutter Advanced Patterns
-      Next.js App Router
-      TypeScript Deep Dive
-      State Management MVVM
-      Firebase & Supabase
-    🔨 Building
-      Mobile Apps
-      Web Applications
-      Fullstack Projects
-      Games with Unity
-    🎯 Goals
-      Master Fullstack Dev
-      Ship Production Apps
-      Contribute to Open Source
-      Build a Strong Portfolio
-```
 
 ---
 
@@ -294,6 +342,8 @@ mindmap
 **Thanks for visiting! Show some ❤️ by starring ⭐ my repos!**
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="150" />
 
 <br/>
 
