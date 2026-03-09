@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: Generate Snake
@@ -28,5 +31,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          fqdn: false
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
