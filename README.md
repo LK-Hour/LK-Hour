@@ -204,6 +204,8 @@ class KimHour {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/LK-Hour/LK-Hour/pull/1) in [LK-Hour/LK-Hour](https://github.com/LK-Hour/LK-Hour)
+2. 💪 Opened PR [#1](https://github.com/LK-Hour/LK-Hour/pull/1) in [LK-Hour/LK-Hour](https://github.com/LK-Hour/LK-Hour)
 <!--END_SECTION:activity-->
 
 ---
