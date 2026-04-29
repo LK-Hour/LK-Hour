@@ -204,8 +204,8 @@ class KimHour {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LK-Hour/flutter-final_project-velotolouse/pull/1) in [LK-Hour/flutter-final_project-velotolouse](https://github.com/LK-Hour/flutter-final_project-velotolouse)
-2. 💪 Opened PR [#1](https://github.com/LK-Hour/flutter-final_project-velotolouse/pull/1) in [LK-Hour/flutter-final_project-velotolouse](https://github.com/LK-Hour/flutter-final_project-velotolouse)
+1. 🎉 Merged PR [#2](https://github.com/LK-Hour/flutter-final_project-velotolouse/pull/2) in [LK-Hour/flutter-final_project-velotolouse](https://github.com/LK-Hour/flutter-final_project-velotolouse)
+2. 💪 Opened PR [#2](https://github.com/LK-Hour/flutter-final_project-velotolouse/pull/2) in [LK-Hour/flutter-final_project-velotolouse](https://github.com/LK-Hour/flutter-final_project-velotolouse)
 <!--END_SECTION:activity-->
 
 ---
