@@ -204,8 +204,8 @@ class KimHour {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#5](https://github.com/LK-Hour/khmer-sign-language-learning-platform/pull/5) in [LK-Hour/khmer-sign-language-learning-platform](https://github.com/LK-Hour/khmer-sign-language-learning-platform)
-2. ℹ️ Assigned PR [#4](https://github.com/LK-Hour/khmer-sign-language-learning-platform/pull/4) in [LK-Hour/khmer-sign-language-learning-platform](https://github.com/LK-Hour/khmer-sign-language-learning-platform)
+1. ℹ️ Assigned PR [#6](https://github.com/LK-Hour/khmer-sign-language-learning-platform/pull/6) in [LK-Hour/khmer-sign-language-learning-platform](https://github.com/LK-Hour/khmer-sign-language-learning-platform)
+2. ℹ️ Assigned PR [#5](https://github.com/LK-Hour/khmer-sign-language-learning-platform/pull/5) in [LK-Hour/khmer-sign-language-learning-platform](https://github.com/LK-Hour/khmer-sign-language-learning-platform)
 <!--END_SECTION:activity-->
 
 ---
