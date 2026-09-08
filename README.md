@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kim%20Hour&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20SE%20Student%20%40%20CADT&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kim%20Hour&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Aspiring%20AI%20Engineer%20%7C%20SE%20Student%20%40%20CADT&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Kimhour+Loem+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Flutter+%26+Next.js+Enthusiast+%F0%9F%9A%80;Software+Engineering+Student+%40+CADT+%F0%9F%8E%93;H+A+R+D+W+O+R+K+%C2%B7+B+E+A+T+S+%C2%B7+T+A+L+E+N+T+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Kimhour+Loem+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Flutter+%26+Next.js+Enthusiast+%F0%9F%9A%80;Software+Engineering+Student+%40+CADT+%F0%9F%8E%93;H+A+R+D+W+O+R+K+%C2%B7+B+E+A+T+S+%C2%B7+T+A+L+E+N+T+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 ```dart
 class KimHour {
   final name     = "Kimhour Loem";
-  final role     = "Fullstack Developer";
+  final role     = "Fullstack Developer | Aspiring AI Engineer";
   final location = "🇰🇭 Phnom Penh, Cambodia";
   final school   = "Software Engineering @ CADT";
 
@@ -36,12 +36,14 @@ class KimHour {
     "Next.js & React",
     "TypeScript",
     "Python",
+    "AI/LLM Engineering (RAG, LangChain)",
     "UI/UX Design",
   ];
 
   final status = {
     "🎓": "Currently studying SE @ CADT",
     "🔭": "Building fullstack apps",
+    "🧠": "Diving into AI Engineering — RAG pipelines & LLM tooling",
     "🌱": "Mastering Flutter & Next.js",
     "🤝": "Open to collaborations",
     "⚡": "Fun fact: Coffee → Code",
@@ -74,9 +76,18 @@ class KimHour {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+### ◈ AI Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-A855F7?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ◈ Databases & Tools
 
@@ -89,7 +100,6 @@ class KimHour {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-A855F7?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ◈ Hardware & Other
 
@@ -150,6 +160,22 @@ class KimHour {
 
 <div align="center">
 
+### 🌟 Internship Highlight
+
+**[🤟 Khmer Sign Language Learning Platform](https://github.com/LK-Hour/khmer-sign-language-learning-platform)**
+> Full-stack platform for learning Khmer Sign Language — learner curriculum, admin management, and AI-assisted practice (finger spelling & word detection). Built during my Software Engineering internship @ CADT.
+>
+> 🔧 Owned most of the platform end-to-end (backend, frontend, infra, AI integration) — the **Finger Spelling** module was built by a fellow intern.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LK-Hour/khmer-sign-language-learning-platform?style=flat-square&color=A855F7)
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -165,6 +191,17 @@ class KimHour {
 
 ---
 
+**[🚲 VeloToulouse](https://github.com/LK-Hour/flutter-final_project-velotolouse)**
+> Final Flutter Advanced project — bike-sharing app with live station map, rent/return flow, and MVVM + Repository architecture.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LK-Hour/flutter-final_project-velotolouse?style=flat-square&color=A855F7)
+
+---
+
+### 🎮 Games
+
 **[🎮 Cyber Kroma](https://github.com/LK-Hour/Cyber-Kroma)**
 > Unity game built with C#, featuring interactive gameplay mechanics.
 
@@ -172,10 +209,19 @@ class KimHour {
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/LK-Hour/Cyber-Kroma?style=flat-square&color=A855F7)
 
+---
+
+**[👾 Alien Invasion](https://github.com/LK-Hour/Alien-Invasion)**
+> Classic arcade-style game with Python & Pygame.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LK-Hour/Alien-Invasion?style=flat-square&color=A855F7)
+
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web & Other
+### 🌐 Web
 
 **[📊 Next.js Dashboard](https://github.com/LK-Hour/nextjs-dashhboard)**
 > Modern responsive dashboard with Next.js & TypeScript. Live on Vercel.
@@ -186,12 +232,32 @@ class KimHour {
 
 ---
 
-**[👾 Alien Invasion](https://github.com/LK-Hour/Alien-Invasion)**
-> Classic arcade-style game with Python & Pygame.
+### 🤖 AI & Tools
+
+**[🧩 Huno](https://github.com/LK-Hour/huno)**
+> Project-aware AI developer harness — gives LLMs project context, memory, tools, and terminal access to work across a codebase.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LK-Hour/huno?style=flat-square&color=A855F7)
+
+---
+
+**[🧠 PAGie](https://github.com/LK-Hour/PAGie)**
+> Personal AI "second brain" — RAG pipeline ingesting Google Drive & Notion, with EDA/IQR data cleaning and Gemini 3.0. CADT Data Science & SE project.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/LK-Hour/Alien-Invasion?style=flat-square&color=A855F7)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LK-Hour/PAGie?style=flat-square&color=A855F7)
+
+---
+
+**[🧬 MSIE (Advance-RAG)](https://github.com/LK-Hour/Advance-RAG)**
+> Multimodal Skill Intelligence Engine — an artificial skill acquisition system organizing knowledge into skills → concepts → procedures → evidence.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LK-Hour/Advance-RAG?style=flat-square&color=A855F7)
 
 </td>
 </tr>
