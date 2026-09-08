@@ -115,15 +115,15 @@ class KimHour {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=default&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical&rank_icon=github" alt="Hour's GitHub Stats" height="175"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lk-hour-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://lk-hour-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=default&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&rank_icon=github" />
+  <img src="https://lk-hour-readme-stats.vercel.app/api?username=LK-Hour&show_icons=true&theme=radical&rank_icon=github" alt="Hour's GitHub Stats" height="175"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=default&hide_border=true&title_color=8b5cf6&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="175"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lk-hour-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://lk-hour-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=default&hide_border=true&title_color=8b5cf6&langs_count=8" />
+  <img src="https://lk-hour-readme-stats.vercel.app/api/top-langs/?username=LK-Hour&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="175"/>
 </picture>
 
 <br/>
@@ -228,7 +228,7 @@ class KimHour {
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-A855F7?style=flat-square&logo=vercel)](https://nextjs-dashhboard-nine.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-A855F7?style=flat-square&logo=vercel)](https://nextjs-dashhboard-azure.vercel.app)
 
 ---
 
