@@ -137,9 +137,9 @@ class KimHour {
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=github-light&hide_border=true&area=true&color=8b5cf6&line=8b5cf6&point=8b5cf6" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark" alt="Contribution Graph" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lk-hour-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://lk-hour-activity-graph.vercel.app/graph?username=LK-Hour&theme=github-light&hide_border=true&area=true&color=8b5cf6&line=8b5cf6&point=8b5cf6" />
+  <img src="https://lk-hour-activity-graph.vercel.app/graph?username=LK-Hour&theme=react-dark" alt="Contribution Graph" width="100%"/>
 </picture>
 
 <br/>
