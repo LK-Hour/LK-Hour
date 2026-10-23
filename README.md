@@ -270,8 +270,8 @@ class KimHour {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LK-Hour/ci-cd-lab1/pull/1) in [LK-Hour/ci-cd-lab1](https://github.com/LK-Hour/ci-cd-lab1)
-2. ℹ️ Assigned PR [#5](https://github.com/LK-Hour/khmer-sign-language-learning-platform/pull/5) in [LK-Hour/khmer-sign-language-learning-platform](https://github.com/LK-Hour/khmer-sign-language-learning-platform)
+1. 🎉 Merged PR [#1](https://github.com/LK-Hour/ci-cd-lab1/pull/1) in [LK-Hour/ci-cd-lab1](https://github.com/LK-Hour/ci-cd-lab1)
+2. 💪 Opened PR [#1](https://github.com/LK-Hour/ci-cd-lab1/pull/1) in [LK-Hour/ci-cd-lab1](https://github.com/LK-Hour/ci-cd-lab1)
 <!--END_SECTION:activity-->
 
 ---
